@@ -11,5 +11,5 @@ a) weed.py -> It captures the image of the plant leaves and detects whether the 
 
 b) sprayer_fn.py -> It sprays the pesticides once weed is detected on the plant leaves
 
-c) motor_fn.py -> It helps us to move the rover ahead once the whole process of spraying pesticide is done, so that it can move on to examine the next plants
+c) motor_fn.py -> It helps us to move the rover ahead once the whole process of spraying pesticide is done
 
